@@ -1,0 +1,58 @@
+export const EMPRENDEDORESDATA = [
+    {
+        id: '1',
+        idCategoria: '100',
+        nombreEmprendedor: 'Cut Cakes',
+        nombreCategoria: 'Reposteria',
+        imagenCategoria: require('../assets/Emprendedor1.png'),
+    },
+    {
+        id: '2',
+        idCategoria: '100',
+        nombreEmprendedor: 'Basic',
+        nombreCategoria: 'Bienestar y SPA',
+        imagenCategoria: require('../assets/Emprendedor2.png'),
+    },
+    {
+        id: '3',
+        idCategoria: '101',
+        nombreEmprendedor: 'Scutti',
+        nombreCategoria: 'Bicicletas',
+        imagenCategoria: require('../assets/Emprendedor3.png'),
+    },
+    {
+        id: '4',
+        idCategoria: '101',
+        nombreEmprendedor: 'Mi Mundo Estelar',
+        nombreCategoria: 'Bienestar y SPA',
+        imagenCategoria: require('../assets/Emprendedor4.png'),
+    },
+    {
+        id: '5',
+        idCategoria: '101',
+        nombreEmprendedor: 'DyB',
+        nombreCategoria: 'Regalos',
+        imagenCategoria: require('../assets/Emprendedor5.png'),
+    },
+    {
+        id: '6',
+        idCategoria: '102',
+        nombreEmprendedor: 'Palmaria Libros',
+        nombreCategoria: 'Libros',
+        imagenCategoria: require('../assets/Emprendedor6.png'),
+    },
+    {
+        id: '7',
+        idCategoria: '102',
+        nombreEmprendedor: 'Bazar Di Tuti',
+        nombreCategoria: 'Lista Escolar',
+        imagenCategoria: require('../assets/Emprendedor7.png'),
+    },
+    {
+        id: '8',
+        idCategoria: '103',
+        nombreEmprendedor: 'Los Chalecos de la ITA',
+        nombreCategoria: 'Todo Bebe',
+        imagenCategoria: require('../assets/Emprendedor8.png'),
+    },
+];
